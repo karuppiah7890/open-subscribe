@@ -1,0 +1,8 @@
+# Ignore npm packages
+node_modules/
+
+# Ignore cache
+.cache/
+
+# Ignore distribution directory
+dist/

@@ -1,0 +1,31 @@
+{
+  "name": "open-subscribe-frontend",
+  "version": "0.1.0",
+  "description": "Open Subscribe Frontend App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel index.html"
+  },
+  "author": "Karuppiah Natarajan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karuppiah7890/open-subscribe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karuppiah7890/open-subscribe/issues"
+  },
+  "homepage": "https://github.com/karuppiah7890/open-subscribe#readme",
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-hot-reload-api": "^2.3.1"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.2.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.10.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
